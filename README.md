@@ -15,12 +15,12 @@ Credit scoring is a crucial tool for financial decision-making. This project uti
 ## Results
 
 The models achieved the following metrics:
-- **Model 1**:  
+- **Logistic Regression**:  
   - Accuracy: **77.38%**  
   - F1 Score: **67.18%**
-- **Model 2**:  
+- **Decision Tree Classifier**:  
   - Accuracy: **71.06%**
-- **Model 3**:  
+- **Random Forest Classifier**:  
   - Accuracy: **78.39%**
 
 ## Requirements
